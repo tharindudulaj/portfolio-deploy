@@ -61,15 +61,15 @@ const projects: Project[] = [
     links: [{ label: "GitHub", href: "https://github.com/tharindudulaj/Cricket-Landing-Page" }],
     techStack: ["React", "Tailwind CSS"]
   },
-  {
-    id: "p6",
-    title: "React Frontend",
-    description: "Responsive and interactive frontend for a webpage.",
-    imageSrc: "/card2.jpg",
-    details: "Responsive and interactive frontend for a webpage using React and Tailwind CSS with responsive design and smooth animations for a better user experience in the web application project .",
-    links: [{ label: "GitHub", href: "https://github.com/tharindudulaj/Cricket-Landing-Page" }],
-    techStack: ["React", "Tailwind CSS"]
-  },
+  // {
+  //   id: "p6",
+  //   title: "React Frontend",
+  //   description: "Responsive and interactive frontend for a webpage.",
+  //   imageSrc: "/card2.jpg",
+  //   details: "Responsive and interactive frontend for a webpage using React and Tailwind CSS with responsive design and smooth animations for a better user experience in the web application project .",
+  //   links: [{ label: "GitHub", href: "https://github.com/tharindudulaj/Cricket-Landing-Page" }],
+  //   techStack: ["React", "Tailwind CSS"]
+  // },
 ];
 
 export default function ProjectsPage() {
