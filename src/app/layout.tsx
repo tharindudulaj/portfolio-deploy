@@ -33,7 +33,8 @@ export default function RootLayout({
     <html lang="en">
       <body
         suppressHydrationWarning
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      >
         <ICloudBackground />
         <Navbar />
         <main className="pt-20">{children}</main>
